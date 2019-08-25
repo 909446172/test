@@ -7,8 +7,15 @@
         <option value="$PROJECT_DIR$/gmall-web-util/pom.xml" />
         <option value="$PROJECT_DIR$/gamll-service-util/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-common-util/pom.xml" />
-        <option value="$PROJECT_DIR$/gmalltest/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-mybatisplus-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-aliyun-oss-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-poi-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-springCloud-eureka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-springCloud-provider-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-activemq-demo/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
