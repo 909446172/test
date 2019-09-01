@@ -20,10 +20,6 @@ public class RbacService {
     public boolean hasPermission(HttpServletRequest request) {
 
         System.out.println("------------hasPermission--------------------");
-        if (true) {
-            return true;
-        }
-
         TokenServiceImpl tokenService = new TokenServiceImpl(request);
         if (ObjectUtils.isEmpty(tokenService)) {
             return false;

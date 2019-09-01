@@ -47,8 +47,12 @@ public class WebSecurityConfigruation extends WebSecurityConfigurerAdapter {
      */
     @Override
     protected void configure(HttpSecurity http) throws Exception {
-        http.csrf().disable().formLogin().successHandler(loginSuccessHandler).failureHandler(loginFailedHandler).and()
-                .authorizeRequests().anyRequest().authenticated();
+//        http.csrf().disable().formLogin().and().authorizeRequests()
+//                .anyRequest().authenticated();
+
+        http.csrf().disable()
+                .authorizeRequests().anyRequest()
+                .access("@rbacService.hasPermission(request)");
     }
 
     /**
