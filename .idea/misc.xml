@@ -14,6 +14,10 @@
         <option value="$PROJECT_DIR$/gmall-springCloud-eureka-demo/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-springCloud-provider-demo/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-activemq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2-authorized/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2-resource/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2-common/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2-eurika/pom.xml" />
       </list>
     </option>
   </component>

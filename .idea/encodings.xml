@@ -10,11 +10,12 @@
     <file url="file://$PROJECT_DIR$/gmall-poi-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gmall-springCloud-eureka-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gmall-springCloud-provider-demo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gmall-springCloud-provider-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gmall-swagger2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gmall-web-util" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gmallaliyunoss" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gmalltest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth2-authorized" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth2-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth2-eurika" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth2-resource" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

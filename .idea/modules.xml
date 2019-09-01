@@ -13,6 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/gmall-springCloud-provider-demo/gmall-springCloud-provider-demo.iml" filepath="$PROJECT_DIR$/gmall-springCloud-provider-demo/gmall-springCloud-provider-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-swagger2/gmall-swagger2.iml" filepath="$PROJECT_DIR$/gmall-swagger2/gmall-swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" filepath="$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-authorized/oauth2-authorized.iml" filepath="$PROJECT_DIR$/oauth2-authorized/oauth2-authorized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-common/oauth2-common.iml" filepath="$PROJECT_DIR$/oauth2-common/oauth2-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-eurika/oauth2-eurika.iml" filepath="$PROJECT_DIR$/oauth2-eurika/oauth2-eurika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-resource/oauth2-resource.iml" filepath="$PROJECT_DIR$/oauth2-resource/oauth2-resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
     </modules>
   </component>

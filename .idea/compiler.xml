@@ -16,6 +16,10 @@
         <module name="gmall-springCloud-provider-demo" />
         <module name="gmall-swagger2" />
         <module name="gmall-web-util" />
+        <module name="oauth2-authorized" />
+        <module name="oauth2-common" />
+        <module name="oauth2-eurika" />
+        <module name="oauth2-resource" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +36,10 @@
       <module name="gmall-web-util" target="1.8" />
       <module name="gmallaliyunoss" target="1.8" />
       <module name="gmalltest" target="1.8" />
+      <module name="oauth2-authorized" target="1.6" />
+      <module name="oauth2-common" target="1.6" />
+      <module name="oauth2-eurika" target="1.6" />
+      <module name="oauth2-resource" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
