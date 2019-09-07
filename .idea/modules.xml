@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto-inject/auto-inject.iml" filepath="$PROJECT_DIR$/auto-inject/auto-inject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-mongodb/demo-mongodb.iml" filepath="$PROJECT_DIR$/demo-mongodb/demo-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-rabbit/demo-rabbit.iml" filepath="$PROJECT_DIR$/demo-rabbit/demo-rabbit.iml" />
       <module fileurl="file://$PROJECT_DIR$/gamll-service-util/gamll-service-util.iml" filepath="$PROJECT_DIR$/gamll-service-util/gamll-service-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-activemq-demo/gmall-activemq-demo.iml" filepath="$PROJECT_DIR$/gmall-activemq-demo/gmall-activemq-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-aliyun-oss-demo/gmall-aliyun-oss-demo.iml" filepath="$PROJECT_DIR$/gmall-aliyun-oss-demo/gmall-aliyun-oss-demo.iml" />
@@ -13,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/gmall-springCloud-provider-demo/gmall-springCloud-provider-demo.iml" filepath="$PROJECT_DIR$/gmall-springCloud-provider-demo/gmall-springCloud-provider-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-swagger2/gmall-swagger2.iml" filepath="$PROJECT_DIR$/gmall-swagger2/gmall-swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" filepath="$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ip-demo/ip-demo.iml" filepath="$PROJECT_DIR$/ip-demo/ip-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-authorized/oauth2-authorized.iml" filepath="$PROJECT_DIR$/oauth2-authorized/oauth2-authorized.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-common/oauth2-common.iml" filepath="$PROJECT_DIR$/oauth2-common/oauth2-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-eurika/oauth2-eurika.iml" filepath="$PROJECT_DIR$/oauth2-eurika/oauth2-eurika.iml" />

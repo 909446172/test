@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="auto-inject" />
+        <module name="demo-mongodb" />
+        <module name="demo-rabbit" />
         <module name="gamll-service-util" />
         <module name="gmall-activemq-demo" />
         <module name="gmall-aliyun-oss-demo" />
@@ -16,6 +19,7 @@
         <module name="gmall-springCloud-provider-demo" />
         <module name="gmall-swagger2" />
         <module name="gmall-web-util" />
+        <module name="ip-demo" />
         <module name="oauth2-authorized" />
         <module name="oauth2-common" />
         <module name="oauth2-eurika" />
@@ -23,6 +27,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="auto-inject" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo-mongodb" target="1.8" />
+      <module name="demo-rabbit" target="1.8" />
       <module name="gamll-service-util" target="1.8" />
       <module name="gmall-activemq-demo" target="1.8" />
       <module name="gmall-aliyun-oss-demo" target="1.8" />
@@ -36,10 +44,29 @@
       <module name="gmall-web-util" target="1.8" />
       <module name="gmallaliyunoss" target="1.8" />
       <module name="gmalltest" target="1.8" />
+      <module name="ip-demo" target="6" />
       <module name="oauth2-authorized" target="1.6" />
       <module name="oauth2-common" target="1.6" />
       <module name="oauth2-eurika" target="1.6" />
       <module name="oauth2-resource" target="1.6" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auto-inject" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo-mongodb" options="-parameters" />
+      <module name="demo-rabbit" options="-parameters" />
+      <module name="gamll-service-util" options="-parameters" />
+      <module name="gmall-activemq-demo" options="-parameters" />
+      <module name="gmall-aliyun-oss-demo" options="-parameters" />
+      <module name="gmall-common-util" options="-parameters" />
+      <module name="gmall-mybatisplus-demo" options="-parameters" />
+      <module name="gmall-poi-demo" options="-parameters" />
+      <module name="gmall-springCloud-eureka-demo" options="-parameters" />
+      <module name="gmall-springCloud-provider-demo" options="-parameters" />
+      <module name="gmall-swagger2" options="-parameters" />
+      <module name="gmall-web-util" options="-parameters" />
+    </option>
   </component>
 </project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="dm.config" name="dm Configuration for 'demo'">
+    <output-path>$PROJECT_DIR$/out/artifacts/dm_Configuration_for__demo_</output-path>
+    <root id="root">
+      <element id="packaging-for-dm-config" module="demo" />
+    </root>
+  </artifact>
+</component>

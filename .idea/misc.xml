@@ -18,8 +18,12 @@
         <option value="$PROJECT_DIR$/oauth2-resource/pom.xml" />
         <option value="$PROJECT_DIR$/oauth2-common/pom.xml" />
         <option value="$PROJECT_DIR$/oauth2-eurika/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/ip-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-rabbit/pom.xml" />
+        <option value="$PROJECT_DIR$/auto-inject/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

@@ -3,10 +3,12 @@ package com.oauth2.common.api;
 import com.oauth2.common.entity.Result;
 import com.oauth2.common.entity.User;
 import org.springframework.cloud.netflix.feign.FeignClient;
+import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.PostMapping;
 
 
 @FeignClient("OAUTH2-AUTHORIZED")
+@Component
 public interface AuthorizationApi {
 
 

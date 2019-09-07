@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:jpa="http://www.springframework.org/schema/data/jpa"
+       xmlns:context="http://www.springframework.org/schema/c"
+       xmlns:repository="http://www.springframework.org/schema/data/repository"
+       xmlns:oxm="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+     https://www.springframework.org/schema/beans/spring-beans.xsd
+     http://www.springframework.org/schema/data/jpa
+     https://www.springframework.org/schema/data/jpa/spring-jpa.xsd http://www.springframework.org/schema/data/repository https://www.springframework.org/schema/data/repository/spring-repository.xsd">
+
+    <!--<jpa:repositories base-package="com.demo.mongodb"/>-->
+    <!--<repositories base-package="com.acme.repositories">-->
+        <!--<context:exclude-filter type="regex" expression=".*SomeRepository" />-->
+    <!--</repositories>-->
+
+    <!--<bean class="org.springframework.data.web.config.SpringDataWebConfiguration" />-->
+
+    <!--&lt;!&ndash; If you use Spring HATEOAS, register this one *instead* of the former &ndash;&gt;-->
+    <!--<bean class="org.springframework.data.web.config.HateoasAwareSpringDataWebConfiguration" />-->
+    <repository:jackson2-populator locations="classpath:data.json" /> <!-- 定义仓库移民-->
+    <oxm:jaxb2-marshaller contextPath="com.acme" /> <!-- 表示设置一个统帅   -->
+    <repository:unmarshaller-populator locations="classpath:data.json"
+                                       unmarshaller-ref="unmarshaller" />
+
+</beans>
