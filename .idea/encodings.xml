@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/auditing-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/auto-inject" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-event" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-openapi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-rabbit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rabbit-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gamll-service-util" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gmall-activemq-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gmall-aliyun-oss-demo" charset="UTF-8" />
@@ -15,6 +20,7 @@
     <file url="file://$PROJECT_DIR$/gmall-springCloud-provider-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gmall-swagger2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gmall-web-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leve-land-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oauth2-authorized" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oauth2-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oauth2-eurika" charset="UTF-8" />

@@ -12,11 +12,11 @@ public class InjectTest {
 
 
     @Autowired
-    B b;
+    UseConstructorTest constructorTest ;
 
     @Test
     public void test1(){
-        System.out.println(b.toString());
+        System.out.println(constructorTest.constructorTest);
 
     }
 }

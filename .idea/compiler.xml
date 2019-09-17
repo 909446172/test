@@ -6,9 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="auditing-test" />
         <module name="auto-inject" />
+        <module name="demo-config" />
+        <module name="demo-event" />
         <module name="demo-mongodb" />
+        <module name="demo-openapi" />
         <module name="demo-rabbit" />
+        <module name="demo-rabbit (1)" />
+        <module name="firsttemp" />
         <module name="gamll-service-util" />
         <module name="gmall-activemq-demo" />
         <module name="gmall-aliyun-oss-demo" />
@@ -20,6 +26,7 @@
         <module name="gmall-swagger2" />
         <module name="gmall-web-util" />
         <module name="ip-demo" />
+        <module name="land" />
         <module name="oauth2-authorized" />
         <module name="oauth2-common" />
         <module name="oauth2-eurika" />
@@ -27,10 +34,17 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="auditing-test" target="1.8" />
       <module name="auto-inject" target="1.8" />
       <module name="demo" target="1.8" />
-      <module name="demo-mongodb" target="1.8" />
+      <module name="demo-config" target="1.8" />
+      <module name="demo-event" target="11" />
+      <module name="demo-mongodb" target="11" />
+      <module name="demo-openapi" target="11" />
       <module name="demo-rabbit" target="1.8" />
+      <module name="demo-rabbit (1)" target="1.8" />
+      <module name="demo-rabbitmq" target="1.8" />
+      <module name="firsttemp" target="1.5" />
       <module name="gamll-service-util" target="1.8" />
       <module name="gmall-activemq-demo" target="1.8" />
       <module name="gmall-aliyun-oss-demo" target="1.8" />
@@ -45,6 +59,7 @@
       <module name="gmallaliyunoss" target="1.8" />
       <module name="gmalltest" target="1.8" />
       <module name="ip-demo" target="6" />
+      <module name="land" target="11" />
       <module name="oauth2-authorized" target="1.6" />
       <module name="oauth2-common" target="1.6" />
       <module name="oauth2-eurika" target="1.6" />
@@ -53,10 +68,16 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auditing-test" options="-parameters" />
       <module name="auto-inject" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="demo-config" options="-parameters" />
+      <module name="demo-event" options="-parameters" />
       <module name="demo-mongodb" options="-parameters" />
+      <module name="demo-openapi" options="-parameters" />
       <module name="demo-rabbit" options="-parameters" />
+      <module name="demo-rabbit (1)" options="-parameters" />
+      <module name="demo-rabbitmq" options="-parameters" />
       <module name="gamll-service-util" options="-parameters" />
       <module name="gmall-activemq-demo" options="-parameters" />
       <module name="gmall-aliyun-oss-demo" options="-parameters" />
@@ -67,6 +88,7 @@
       <module name="gmall-springCloud-provider-demo" options="-parameters" />
       <module name="gmall-swagger2" options="-parameters" />
       <module name="gmall-web-util" options="-parameters" />
+      <module name="land" options="-parameters" />
     </option>
   </component>
 </project>

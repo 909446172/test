@@ -14,11 +14,11 @@ public class Producer {
 
             channel.exchangeDeclare(EXCHANGE_NAME, "topic");
 
-            String routingKey = getRouting(argv);
-            String message = getMessage(argv);
-
-            channel.basicPublish(EXCHANGE_NAME, routingKey, null, message.getBytes("UTF-8"));
-            System.out.println(" [x] Sent '" + routingKey + "':'" + message + "'");
+//            String routingKey = getRouting(argv);
+//            String message = getMessage(argv);
+//
+//            channel.basicPublish(EXCHANGE_NAME, routingKey, null, message.getBytes("UTF-8"));
+//            System.out.println(" [x] Sent '" + routingKey + "':'" + message + "'");
         }
     }
 
