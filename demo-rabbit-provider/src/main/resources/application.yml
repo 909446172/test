@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    password: guest
+    username: guest
+    addresses: 127.0.0.1
+    port: 5672  # 注意，这里是5672，不是访问界面用的15672，这个是默认值
