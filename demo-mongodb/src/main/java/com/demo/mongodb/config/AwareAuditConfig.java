@@ -8,7 +8,6 @@ import java.time.temporal.TemporalAccessor;
 import java.util.Date;
 import java.util.Optional;
 
-@Configuration
 public class AwareAuditConfig implements Auditable {
 
     @Override

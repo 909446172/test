@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/demo-openapi/demo-openapi.iml" filepath="$PROJECT_DIR$/demo-openapi/demo-openapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-rabbit/demo-rabbit.iml" filepath="$PROJECT_DIR$/demo-rabbit/demo-rabbit.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-rabbit-provider/demo-rabbit (1).iml" filepath="$PROJECT_DIR$/demo-rabbit-provider/demo-rabbit (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1111/demo1111.iml" filepath="$PROJECT_DIR$/demo1111/demo1111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/face-plus/face-plus.iml" filepath="$PROJECT_DIR$/face-plus/face-plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/firsttemp/firsttemp.iml" filepath="$PROJECT_DIR$/firsttemp/firsttemp.iml" />
       <module fileurl="file://$PROJECT_DIR$/gamll-service-util/gamll-service-util.iml" filepath="$PROJECT_DIR$/gamll-service-util/gamll-service-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-activemq-demo/gmall-activemq-demo.iml" filepath="$PROJECT_DIR$/gmall-activemq-demo/gmall-activemq-demo.iml" />

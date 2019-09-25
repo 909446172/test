@@ -13,7 +13,7 @@ import springfox.documentation.spi.service.contexts.SecurityContext;
 import java.util.Optional;
 
 @Configuration
-@EnableMongoAuditing(auditorAwareRef = "awareAuditConfig")
+@EnableMongoAuditing
 public class MongodbConfig {
 
     @Bean

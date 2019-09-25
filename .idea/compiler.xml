@@ -14,6 +14,8 @@
         <module name="demo-openapi" />
         <module name="demo-rabbit" />
         <module name="demo-rabbit (1)" />
+        <module name="demo1111" />
+        <module name="face-plus" />
         <module name="firsttemp" />
         <module name="gamll-service-util" />
         <module name="gmall-activemq-demo" />
@@ -44,6 +46,8 @@
       <module name="demo-rabbit" target="1.8" />
       <module name="demo-rabbit (1)" target="1.8" />
       <module name="demo-rabbitmq" target="1.8" />
+      <module name="demo1111" target="11" />
+      <module name="face-plus" target="1.8" />
       <module name="firsttemp" target="1.5" />
       <module name="gamll-service-util" target="1.8" />
       <module name="gmall-activemq-demo" target="1.8" />
@@ -78,6 +82,8 @@
       <module name="demo-rabbit" options="-parameters" />
       <module name="demo-rabbit (1)" options="-parameters" />
       <module name="demo-rabbitmq" options="-parameters" />
+      <module name="demo1111" options="-parameters" />
+      <module name="face-plus" options="-parameters" />
       <module name="gamll-service-util" options="-parameters" />
       <module name="gmall-activemq-demo" options="-parameters" />
       <module name="gmall-aliyun-oss-demo" options="-parameters" />
