@@ -25,7 +25,6 @@
       <module fileurl="file://$PROJECT_DIR$/gmall-swagger2/gmall-swagger2.iml" filepath="$PROJECT_DIR$/gmall-swagger2/gmall-swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" filepath="$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/ip-demo/ip-demo.iml" filepath="$PROJECT_DIR$/ip-demo/ip-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leve-land-test/land.iml" filepath="$PROJECT_DIR$/leve-land-test/land.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-authorized/oauth2-authorized.iml" filepath="$PROJECT_DIR$/oauth2-authorized/oauth2-authorized.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-common/oauth2-common.iml" filepath="$PROJECT_DIR$/oauth2-common/oauth2-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauth2-eurika/oauth2-eurika.iml" filepath="$PROJECT_DIR$/oauth2-eurika/oauth2-eurika.iml" />

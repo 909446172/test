@@ -28,7 +28,6 @@
         <module name="gmall-swagger2" />
         <module name="gmall-web-util" />
         <module name="ip-demo" />
-        <module name="land" />
         <module name="oauth2-authorized" />
         <module name="oauth2-common" />
         <module name="oauth2-eurika" />
